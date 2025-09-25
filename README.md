@@ -33,8 +33,7 @@ Noticiero escolar
         Cuiden las zonas verdes sin arrojar basuras ni desechos; para eso están los botes de basura.
       </p>
     </section>
-
-    <section>
+    </section>
       <h2>Mesas ralladas sin necesidad</h2>
       <p>
         Algunos estudiantes de la institución están rallando sus puestos como forma de desestrés en clases aburridas, 
@@ -46,8 +45,7 @@ Noticiero escolar
         y su motivación académica. ¡Cuidado con los excesos!
       </p>
     </section>
-
-    <section>
+    </section>
       <h2>Deportes</h2>
       <p>
         Próximamente se estarán cubriendo las actividades deportivas de la institución. El deporte no solo fortalece el cuerpo, 
