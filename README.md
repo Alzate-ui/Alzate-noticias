@@ -48,7 +48,7 @@ Noticiero escolar
     </section>
       <h2>Deportes</h2>
       <p>
-        Próximamente se estarán cubriendo las actividades deportivas de la institución. El deporte no solo fortalece el cuerpo, 
+        En la institución educativa está el torneo de fútbol que tiene como primer lugar a Palmieras y de segundo El barcelona.son equipos que se han ganado esa posición.El deporte no solo fortalece el cuerpo, 
         sino también la disciplina y el trabajo en equipo. Invitamos a todos los estudiantes a participar activamente 
         en las diferentes disciplinas deportivas.
       </p>
