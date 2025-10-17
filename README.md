@@ -1,4 +1,4 @@
-# Alzate-noticias
+# Random-noticias
 Noticiero escolar 
 <!DOCTYPE html>
 <html lang="es">
@@ -9,7 +9,7 @@ Noticiero escolar
 </head>
 <body>
   <header>
-    <h1>ALZATE NOTICIAS</h1>
+    <h1>RANDOM NOTICIAS</h1>
     <p>Tu noticiero escolar en línea</p>
   </header>
 
@@ -56,7 +56,7 @@ Noticiero escolar
   </main>
 
   <footer>
-    &copy; 2025 Noticias Alzate - Todos los derechos reservados
+    &copy; 2025 Noticias Random - Todos los derechos reservados
   </footer>
 </body>
 </html>
